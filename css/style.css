@@ -1,0 +1,36 @@
+
+h1
+{	font-weight: bold;
+	color: #2D73B9;
+	font-family: "Palatino Linotype", Palatino, serif;
+}
+
+p, li
+{
+	font-family: "arial black"; font-size: 20px;
+}
+
+.top
+{
+	
+	background-color: #FDEDF2;
+}
+
+.top_text {
+	position: relative;
+}
+
+.photo
+ {
+	position: absolut; left: -112px; top: 3px;
+}
+
+.middle
+{
+	background-color: #FFF5E8;
+}
+
+.bottom
+{
+	background-color: #FFFDED
+}
